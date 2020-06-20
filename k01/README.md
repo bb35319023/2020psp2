@@ -1,6 +1,6 @@
 # 課題1 レポート
 
-aa83988848 薗田光太郎
+bb35319023 近藤さき
 
 ## 課題
 
@@ -52,31 +52,41 @@ l.31: bufからsscanfで数値文字列を実数としてvalに読み込む
 
 l.32: aveに関数ave_onlineの結果を代入
 
-l.33: square_aveに関数square_ave_onlineの結果を代入
+l.33: square_aveに関数ave_onlineの結果を代入
 
-l.34: countに1を足す
+l.34: varに関数var_onlineの結果を代入
 
-l.37: varに関数var_onlineの結果を代入
+l.35: countに1を足す
 
-l.38: 母集団の分散を推定し、var_uに代入
+l.38: 母集団の分散を推定し，var_uに代入
 
-l.40: ファイルを閉じる．閉じれないときは，即座にプログラム終了
+l.39: 標準誤差を求め，SEに代入
 
-l.45: 平均aveの値を出力
+l.41: ファイルを閉じる．閉じれないときは，即座にプログラム終了
 
-l.46: 分散var_uの値を出力
+l.46: 標本平均を出力
+
+l.47: 標本分散を出力
+
+l.48: 母集団平均(推定値)を出力
+
+l.49: 母集団分散(推定値)を出力
 
 l.54: 平均を求める関数を作る
 
-l.60: 2乗の平均を求める関数を作る
-
-l.66: 分散を求める関数を作る
+l.60: 分散を求める関数を作る
 
 ## 入出力結果
 
 ```
 ここに出力結果を貼り付けてください
 ```
+input the filename of sample:../sample/heights_male.csv
+the filename of sample: ../sample/heights_male.csv
+sample mean:173.888750
+sample variance:25.361711
+population mean (estimated):173.888750 +- 1.903445
+population variance (estimated):28.984813
 
 ## 修正履歴
 [comment #20200618]
