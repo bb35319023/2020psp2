@@ -79,14 +79,13 @@ l.60: 分散を求める関数を作る
 ## 入出力結果
 
 ```
-ここに出力結果を貼り付けてください
-```
 input the filename of sample:../sample/heights_male.csv
 the filename of sample: ../sample/heights_male.csv
 sample mean:173.888750
 sample variance:25.361711
 population mean (estimated):173.888750 +- 1.903445
 population variance (estimated):28.984813
+```
 
 ## 修正履歴
 [comment #20200618]
@@ -99,3 +98,6 @@ population variance (estimated):28.984813
 (コンパイル時に`-W`や`-Wall`をつけることで, このようなWarningを知らせてくれます)
 - var_online()関数はave_online()関数と同じように, データを増やすたびに分散を更新するような関数にしてください.  
 したがって, var_online()関数は, while文内で使用することになります. 
+
+[comment #20200620]
+- OKです. 

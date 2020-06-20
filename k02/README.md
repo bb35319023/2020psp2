@@ -48,14 +48,16 @@ l.51: 標準正規分布におけるzの出現確率を出力する関数を作�
 ## 入出力結果
 
 ```
-ここに出力結果を貼り付けてください
-```
 input the filename of sample:../sample/heights_male.csv
 the filename of sample: ../sample/heights_male.csv
 L_A: 0.000006
 L_B: 0.000002
+```
 
 ## 修正履歴
 [comment #20200618]
 - ソースコードはOKです. 
 - 出力結果を貼り付けてください. 
+
+[comment #20200620]
+- OKです. 
