@@ -75,3 +75,6 @@ Likelihood for B：
 
 [comment #20200620]
 - OKです. 
+
+[comment #20200624 kotaro]
+- 課題2の完了を確認しました．（薗田）
